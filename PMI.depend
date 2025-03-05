@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1591233040 source:d:\proyecto final\pmi\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1593983380 source:d:\programacion 1\proyecto final\pmi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	"varado.h"
+	"listabi.h"
+
+1593283440 d:\programacion 1\proyecto final\pmi\varado.h
+
+1593452502 d:\programacion 1\proyecto final\pmi\listabi.h
+
